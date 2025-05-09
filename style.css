@@ -381,4 +381,10 @@ background-color: blanchedalmond;
   max-width: 800px;
   margin: 0;
 }
-
+.fondo{
+    background-image: url('Fondo de pantalla vision board inspirador fotográfico moderno blanco.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Opcional: ajusta la imagen al contenedor */
+    width: 100;
+    height: 250;
+}
